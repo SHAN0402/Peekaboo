@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Database/Scenes 1/LoginScene.unity
+    guid: b50878bea34636d479a29182448f6ac3
+  - enabled: 1
+    path: Assets/Database/Scenes 1/Main.unity
+    guid: d11306477d562a348aa70e209ea03e42
+  - enabled: 1
+    path: Assets/Database/Scenes 1/Friends.unity
+    guid: 8aaf9346c2f36bd49974065c6d46aa01
+  - enabled: 1
+    path: Assets/Database/Scenes 1/Achieve.unity
+    guid: 8ead619518e0cb44fabafc16b7cb8363
+  - enabled: 1
+    path: Assets/Database/Scenes 1/GameLobby.unity
+    guid: 68456e2207ac22e4594d1a401f42a11d
+  - enabled: 1
+    path: Assets/Database/Scenes 1/inventory.unity
+    guid: 8d79287e6e15ba14cb49fdf929443726
+  - enabled: 1
+    path: Assets/Database/Scenes 1/Loading1.unity
+    guid: cc6a3d209fe70684bbbc8bf2912c8984
+  - enabled: 1
+    path: Assets/Database/Scenes 1/Loading2.unity
+    guid: dc8205b3f85e0aa4eb7ba3c0ac24ce32
+  - enabled: 1
+    path: Assets/Database/Scenes 1/MapInGame.unity
+    guid: 26154d4efc5f90e4aaa4086be22308f0
+  - enabled: 1
+    path: Assets/Database/Scenes 1/Ranking.unity
+    guid: 59d22f844cfdade4584a6f21c3856fdc
+  - enabled: 1
+    path: Assets/Database/Scenes 1/Result.unity
+    guid: 15576882613e1674c89a5fc73ef79b5d
+  - enabled: 1
+    path: Assets/Database/Scenes 1/Shop.unity
+    guid: 4047c938a0421384d99c4ed6277939a4
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 13bd0c19c84d0d64692d5c3fd98f85c1, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 47cc8692cc66dfe46b8bcb7d76dbc911, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 42acfb4db0895dd4a9c92cac3ad11e4c, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 51bc39aebd9b53243b3226fc249185a9, type: 2}
